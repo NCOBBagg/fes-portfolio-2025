@@ -100,7 +100,7 @@ export default function Header() {
           </h3>
           <p className="theme--detail">
             <ScrambleText shuffle delay={4}>
-              HI!!! I’m Cam, I tackle complex engineering challenges daily, alongside a team of elite software engineers. My mission is to continuously advance in web development, using my growing expertise to drive societal progress through technology.
+              HI!!! I’m Cam, I tackle complex engineering challenges daily. My mission is to continuously advance in web development, using my growing expertise to drive societal progress through technology.
             </ScrambleText>
           </p>
         </div>
