@@ -16,8 +16,7 @@ import Icon from "../Icon"
 import githubIcon from "../../assets/Icon/github.svg"
 import linkedinIcon from "../../assets/Icon/linkedin.svg"
 import fileIcon from "../../assets/Icon/file.svg"
-import camResume from "../../assets/Cam Tech Resume - 2025 v3.docx.pdf"
-
+import camResume2 from "../../assets/Cam Tech Resume - 2025 v4.docx-2.pdf"
 // jsons
 import technicalSkills from "../../constants/technicalSkills.json"
 import technicalSkills2 from "../../constants/technicalSkills2.json"
@@ -76,7 +75,7 @@ export default function Resume() {
                 <a href="http://www.linkedin.com/in/cameron-watkins-3b7540188" target="_blank" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href={camResume} target="_blank" rel="noreferrer">
+                <a href={camResume2} target="_blank" rel="noreferrer">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>
