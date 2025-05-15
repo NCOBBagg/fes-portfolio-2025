@@ -1,5 +1,16 @@
 [
   {
+    "company": "Skinstric AI",
+    "role": "Frontend Engineer",
+    "resps": [
+      "Architected real-time skin analysis platform using OpenAI Vision API and Next.js 14, achieving 98% detection accuracy across diverse skin conditions",
+      "Developed responsive UI with TailwindCSS and GSAP animations, implementing dynamic skincare recommendation cards with 60% improved engagement",
+      "Optimized performance using Next.js Server Components and Lottie animations, achieving sub-2-second analysis time for skin condition detection",
+      "Built custom animation system using GSAP timeline for seamless user experience during skin analysis processing, increasing user retention by 40%"
+    ],
+    "date": " Sept 2024 - Mar 2025"
+  },
+  {
     "company": "Frontend Simplified",
     "role": "Frontend Developer and Support Staff",
     "resps": [
@@ -10,16 +21,5 @@
       "Built and shared reusable component library using ShadCN/UI, reducing development time for student projects by 40% and improving code consistency"
     ],
     "date": " Feb 2024 - Aug 2024"
-  },
-  {
-    "company": "Skinstric AI",
-    "role": "Frontend Engineer",
-    "resps": [
-      "Architected real-time skin analysis platform using OpenAI Vision API and Next.js 14, achieving 98% detection accuracy across diverse skin conditions",
-      "Developed responsive UI with TailwindCSS and GSAP animations, implementing dynamic skincare recommendation cards with 60% improved engagement",
-      "Optimized performance using Next.js Server Components and Lottie animations, achieving sub-2-second analysis time for skin condition detection",
-      "Built custom animation system using GSAP timeline for seamless user experience during skin analysis processing, increasing user retention by 40%"
-    ],
-    "date": " Sept 2024 - Dec 2024"
   }
 ]
