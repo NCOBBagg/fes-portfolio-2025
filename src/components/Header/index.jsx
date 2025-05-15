@@ -11,7 +11,7 @@ import { useInView } from "react-intersection-observer"
 import ScrambleText from "../ScrambleText"
 import Time from "../Time"
 import NavMenu from "../NavMenu"
-import camResume2 from "../../assets/Cam Tech Resume - 2025 v4.docx-2.pdf"
+import { camResume3 } from "../../assets/Cam Tech Resume - 2025 v4.docx-2.pdf"
 
 export default function Header() {
   const controls = useAnimation()
@@ -82,7 +82,7 @@ export default function Header() {
             </ScrambleText>
           </a>
           <span className="header--hash">{"//"}</span>
-          <a href={camResume2} target={"_blank"} rel="noopener noreferrer">
+          <a href={camResume3} target={"_blank"} rel="noopener noreferrer">
             <ScrambleText shuffle delay={1.5}>
               RESUME
             </ScrambleText>
