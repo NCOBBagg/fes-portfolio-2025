@@ -25,7 +25,7 @@ export default function Footer() {
     name: false,
     email: false,
     message: false,
-  })
+  })  
 
   const handleComplete = () => {
     setHasAnimated(true)
