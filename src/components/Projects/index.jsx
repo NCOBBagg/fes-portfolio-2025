@@ -31,9 +31,11 @@ export default function Projects() {
     {
       client: "Ultraverse NFT World",
       year: "2024",
-      img: work4,
+      img: work4, 
       title: "NFT Marketplace for the next generation.",
       detail: "Ultraverse is a decentralized NFT marketplace that allows creators to mint, sell, and buy NFTs. The platform is built on the Ethereum blockchain and uses IPFS for storage.",
+      imageUrl: "https://cam-marketplaceinternship.vercel.app"
+
     },
     {
       client: "Spotify",
@@ -41,6 +43,7 @@ export default function Projects() {
       img: work5,
       title: "Listen to your favorite music on the go.",
       detail: "A Spotify clone built using React and Tailwind CSS. The app allows users to create playlists and listen to music. It also features a dark mode and responsive design.",
+      imageUrl: "https://spotify-clone-psi-mocha.vercel.app"
     },
     {
       client: "Iphone 15 ",
@@ -48,6 +51,7 @@ export default function Projects() {
       img: work6,
       title: "The future of smartphones.",
       detail: "A landing page for the iPhone 15 Pro concept. The page is built using React, Tailwind CSS, and GSAP. It features a responsive design, 3D animations and smooth scrolling",
+      imageUrl: "https://cam-iphone.com"
     },
   ]
 

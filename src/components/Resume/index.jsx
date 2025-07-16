@@ -16,7 +16,7 @@ import Icon from "../Icon"
 import githubIcon from "../../assets/Icon/github.svg"
 import linkedinIcon from "../../assets/Icon/linkedin.svg"
 import fileIcon from "../../assets/Icon/file.svg"
-import { camResume3 } from "../../assets/Cam Tech Resume - 2025 v4.docx-2.pdf"
+import camResume3 from "../../assets/Cam Tech Resume - 2025 v4.docx-2.pdf"
 // jsons
 import technicalSkills from "../../constants/technicalSkills.json"
 import technicalSkills2 from "../../constants/technicalSkills2.json"
