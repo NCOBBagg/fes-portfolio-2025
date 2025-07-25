@@ -16,7 +16,7 @@ export default function TechCard({ item, delay, controls }) {
         <Icon img={item.icon} />
       </motion.div>
       <h3>
-        <TextWriting delay={delay} nocursor controls={controls} stagger={0.08} text={item.title} />
+        <TextWriting delay={delay} nocursor controls={controls} stagger={0.05} text={item.title} />
       </h3>
       <p>
         <ScrambleText delay={delay}>{item.detail}</ScrambleText>
